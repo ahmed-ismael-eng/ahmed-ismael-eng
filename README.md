@@ -5,8 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/ahmed-ismael-eng">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%24+whoami;%3E+Ahmed+Ismael;%3E+Engineering+student+%E2%9F%A9+SAMK%2C+Finland;%3E+Obsessed+with+AI%2C+hardware+%26+robotics" alt="Typing intro" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=70&lines=%24+whoami;%3E+Ahmed+Ismael;%3E+Engineering+student" alt="Typing intro" />
 </a>
 
 <br/>
@@ -16,35 +15,27 @@
 </div>
 
 <!-- ============================================= -->
-<!--          SYSTEM STATUS — VIA SHIELDS          -->
+<!--          SYSTEM STATUS — CARD GRID            -->
 <!-- ============================================= -->
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/-%20%E2%97%89%20LOCATION-3FB950?style=for-the-badge&labelColor=0d1117" height="28"/>
-<img src="https://img.shields.io/badge/Vantaa%2C%20Finland-e6edf3?style=for-the-badge&labelColor=0d1117" height="28"/>
-</td>
+<td><img src="https://img.shields.io/badge/%E2%97%89%20LOCATION-3FB950?style=for-the-badge&labelColor=0d1117" height="30"/></td>
+<td><img src="https://img.shields.io/badge/Finland-e6edf3?style=for-the-badge&labelColor=161b22" height="30"/></td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/-%20%E2%97%89%20ROLE-58A6FF?style=for-the-badge&labelColor=0d1117" height="28"/>
-<img src="https://img.shields.io/badge/Engineering%20Student%20@SAMK-e6edf3?style=for-the-badge&labelColor=0d1117" height="28"/>
-</td>
+<td><img src="https://img.shields.io/badge/%E2%97%89%20ROLE-58A6FF?style=for-the-badge&labelColor=0d1117" height="30"/></td>
+<td><img src="https://img.shields.io/badge/Engineering%20Student-e6edf3?style=for-the-badge&labelColor=161b22" height="30"/> <img src="https://img.shields.io/badge/Satakunta%20University%20of%20Applied%20Sciences-79c0ff?style=for-the-badge&labelColor=161b22" height="30"/></td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/-%20%E2%97%89%20FOCUS-D2A8FF?style=for-the-badge&labelColor=0d1117" height="28"/>
-<img src="https://img.shields.io/badge/AI%20%C2%B7%20Hardware%20%C2%B7%20Robotics-e6edf3?style=for-the-badge&labelColor=0d1117" height="28"/>
-</td>
+<td><img src="https://img.shields.io/badge/%E2%97%89%20FOCUS-D2A8FF?style=for-the-badge&labelColor=0d1117" height="30"/></td>
+<td><img src="https://img.shields.io/badge/AI%20%C2%B7%20Hardware%20%C2%B7%20Robotics-e6edf3?style=for-the-badge&labelColor=161b22" height="30"/></td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/-%20%E2%97%89%20STACK-FFA657?style=for-the-badge&labelColor=0d1117" height="28"/>
-<img src="https://img.shields.io/badge/Python%20%C2%B7%20C%2B%2B%20%C2%B7%20ESP32%20%C2%B7%20Linux-e6edf3?style=for-the-badge&labelColor=0d1117" height="28"/>
-</td>
+<td><img src="https://img.shields.io/badge/%E2%97%89%20STACK-FFA657?style=for-the-badge&labelColor=0d1117" height="30"/></td>
+<td><img src="https://img.shields.io/badge/Python%20%C2%B7%20C%2B%2B%20%C2%B7%20ESP32%20%C2%B7%20Linux-e6edf3?style=for-the-badge&labelColor=161b22" height="30"/></td>
 </tr>
 </table>
 
@@ -156,8 +147,8 @@
 <div align="center">
 
 <a href="https://github.com/ahmed-ismael-eng">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmed-ismael-eng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-ismael-eng&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="Top languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmed-ismael-eng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&hide_title=true" alt="GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-ismael-eng&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&hide_title=true" alt="Top languages"/>
 </a>
 
 <br/><br/>
