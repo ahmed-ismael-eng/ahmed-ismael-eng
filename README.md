@@ -2,7 +2,7 @@
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
-  Hi, I'm AI Ahmed Ismael!
+  Hi, I'm Ahmed Ismael (Yes, my initials are AI 🤖)
   <img align="right" src="https://komarev.com/ghpvc/?username=ahmed-ismael-eng&color=blue" alt="GitHub profile views counter">
 </h1>
 
