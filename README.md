@@ -146,10 +146,7 @@
 
 <div align="center">
 
-<a href="https://github.com/ahmed-ismael-eng">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmed-ismael-eng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&hide_title=true" alt="GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-ismael-eng&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&hide_title=true" alt="Top languages"/>
-</a>
+
 
 <br/><br/>
 
