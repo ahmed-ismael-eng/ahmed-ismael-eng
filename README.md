@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/ahmed-ismael-eng">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=70&lines=%24+whoami;%3E+Ahmed+Ismael;%3E+Engineering+student" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=70&lines=%24+whoami;%3E+Ahmed+Ismael;%3E+Engineering+student;%3EAI+Sotware+&+Hardware" alt="Typing intro" />
 </a>
 
 <br/>
