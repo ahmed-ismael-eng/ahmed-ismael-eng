@@ -6,6 +6,7 @@
 
 <a href="https://github.com/ahmed-ismael-eng">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%24+whoami;%3E+Ahmed+Ismael;%3E+Engineering+student+%E2%9F%A9+SAMK%2C+Finland;%3E+Obsessed+with+AI%2C+hardware+%26+robotics" alt="Typing intro" />
+
 </a>
 
 <br/>
