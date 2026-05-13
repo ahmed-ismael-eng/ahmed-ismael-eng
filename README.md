@@ -31,7 +31,7 @@
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/%E2%97%89%20FOCUS-D2A8FF?style=for-the-badge&labelColor=0d1117" height="30"/></td>
-<td><img src="https://img.shields.io/badge/AI%20%C2%B7%20Hardware%20%C2%B7%20Robotics-e6edf3?style=for-the-badge&labelColor=161b22" height="30"/></td>
+<td><img src="https://img.shields.io/badge/AI%20%C2%B7%20Hardware%20%C2%B7%20Space Tech-e6edf3?style=for-the-badge&labelColor=161b22" height="30"/></td>
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/%E2%97%89%20STACK-FFA657?style=for-the-badge&labelColor=0d1117" height="30"/></td>
