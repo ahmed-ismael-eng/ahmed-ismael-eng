@@ -5,7 +5,7 @@
 
 ## About
 
-> Engineering student at **Satakunta University of Applied Sciences**, building at the intersection of **artificial intelligence**, **embedded hardware**, and **robotics**. From microcontrollers running ML inference to AI agents that orchestrate physical systems — I'm interested in machines that *think*, *sense*, and *act*.
+> Engineering student at **Satakunta University of Applied Sciences**, building at the intersection of **artificial intelligence**, **embedded hardware**, and **space**. From microcontrollers running ML inference to AI agents that orchestrate physical systems — I'm interested in machines that *think*, *sense*, and *act*.
 
 <!-- ============================================= -->
 <!--              TECH STACK MATRIX                -->
