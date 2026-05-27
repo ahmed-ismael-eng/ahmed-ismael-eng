@@ -92,35 +92,7 @@
   <img src="https://skillicons.dev/icons?i=django,supabase,postgres,vscode,pycharm,github,figma"/>
 </p>
 
-<!-- ============================================= -->
-<!--              GITHUB ANALYTICS                 -->
-<!-- ============================================= -->
 
-## GitHub analytics
-
-<div align="center">
-
-
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=ahmed-ismael-eng&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="Contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-ismael-eng&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" width="100%" alt="Contribution activity graph"/>
-
-</div>
-
-<!-- ============================================= -->
-<!--                 TROPHY ROOM                   -->
-<!-- ============================================= -->
-
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-ismael-eng&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" alt="GitHub trophies"/>
-</div>
 
 <!-- ============================================= -->
 <!--               CURRENT FOCUS                   -->
